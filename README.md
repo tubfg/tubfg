@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Tabby.
-- 👀 I’m interested in computers and open source!
-- 🌱 Web Development, Rust, and Web3 are all so interesting!
-- 💞️ I’d love to collaborate on open-source-for-good projects.
-- 📫 Wanna tell me something? You can do that [here](https://github.com/tubfg/tubfg/discussions).
-- 🌍 This world is amazing. Let's preserve it! 😄
+- 👀 I’m interested in open-source-for-good and using technology to make our lives better.
+- 📫 You can get in touch through [GitHub Discussions](https://github.com/tubfg/tubfg/discussions) if you'd like.
+- 🌍 This planet is wonderful, let's preserve it!
